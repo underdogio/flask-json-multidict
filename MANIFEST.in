@@ -1,0 +1,2 @@
+recursive-include flask_json_multidict *
+include *

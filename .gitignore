@@ -1,0 +1,4 @@
+*.pyc
+build/
+dist/
+flask_json_multidict.egg-info
